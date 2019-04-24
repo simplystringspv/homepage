@@ -154,7 +154,7 @@
 }
 
 .about-section hr {
-  border-color: #64a19d;
+  border-color: #cccccc;
   border-width: .25rem;
   width: 30%;
 }
@@ -165,7 +165,7 @@
 
 .about-section .featured-text {
   padding: 2rem;
-  border-left: 0.5rem solid #64a19d;
+  border-left: 0.5rem solid #cccccc;
 }
 
 /* Portfolio Section */
@@ -181,7 +181,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #cccccc;
   }
 }
 
@@ -195,7 +195,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #cccccc;
     border-width: .25rem;
     width: 30%;
   }
@@ -208,7 +208,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #cccccc;
 }
 
 .contact-section .card h4 {
@@ -219,7 +219,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #cccccc;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -252,7 +252,7 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #cccccc;
 }
 
 a:focus, a:hover {
@@ -265,11 +265,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #cccccc !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #cccccc !important;
 }
 
 /* Events Section */
